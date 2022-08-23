@@ -1,0 +1,17 @@
+{
+    "name": "dorofiykolya.task.transaction",
+    "rootNamespace": "",
+    "references": [
+        "GUID:231b8f671be29c14da379b9ad9259d7f",
+        "GUID:6616ed58e97323744a569d2eb4bd808c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
