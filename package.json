@@ -1,7 +1,7 @@
 {
   "name": "dorofiykolya.task.transaction",
-  "displayName": "Task transactions",
-  "version": "0.1.0",
+  "displayName": "Corelib Task Transactions",
+  "version": "0.2.0",
   "unity": "2019.4",
   "author": "https://github.com/dorofiykolya",
   "description": "Tasks",
